@@ -11,3 +11,5 @@ This project is in progress now. The last version is in 2022. It contains:
 - Any media-materials, which used like base
 
 This is not final version of project. Previous version is created in Autodesk Inventor, but next version will be created in SolidWorks. Further, structural analyse will be added to test construction.
+
+![NP 2022 picture](Media Material/NP I.png)
