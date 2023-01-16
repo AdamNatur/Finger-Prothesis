@@ -12,4 +12,5 @@ This project is in progress now. The last version is in 2022. It contains:
 
 This is not final version of project. Previous version is created in Autodesk Inventor, but next version will be created in SolidWorks. Further, structural analyse will be added to test construction.
 
-![NP 2022 picture](Media Material/NP I.png)
+### The Last version render
+<img src = "https://github.com/AdamNatur/Finger-Prothesis/blob/main/Media%20Material/NP%20I.png" width = "384" height = "216"> <img src = "https://github.com/AdamNatur/Finger-Prothesis/blob/main/Media%20Material/NP%20II.png" width = "384" height = "216">
