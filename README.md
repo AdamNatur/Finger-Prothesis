@@ -24,8 +24,5 @@ Finally, I have got result, represented below:
 
 <img src="https://github.com/AdamNatur/Finger-Prothesis/blob/167bbb1e427d847fb5041552bedf0479d7f41c37/Media%20Material/Prototype%20picture.jpg">
 
-[![Watch the video](https://github.com/AdamNatur/Finger-Prothesis/blob/baad4de830d54ced1b4b55fd722bd34c08406bbd/Media%20Material/Working%20concept.gif)](https://github.com/AdamNatur/Finger-Prothesis/blob/167bbb1e427d847fb5041552bedf0479d7f41c37/Media%20Material/Working%20concept.mp4)
-
-
 https://user-images.githubusercontent.com/92713694/217846430-1db8a021-02f9-46ad-8f6f-298e99c76489.mp4
 
