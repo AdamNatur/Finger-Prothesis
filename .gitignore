@@ -1,2 +1,8 @@
-NP 2022/*.stl
+*.stl
 *.avi
+*.pdf
+*.step
+*.stp
+*.docx
+*.STL
+
